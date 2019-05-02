@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://happyxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
+                    <string>https://zhongguochengxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>https://happyxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
+                    <string>https://zhongguochengxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.kaixinqipai.qipai.ios</string>  
+                <string>com.zhongguocheng.qipai.ios</string>  
                 <key>bundle-version</key>  
                 <string>1.0</string>  
                 <key>kind</key>  
