@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://jh.foxuc.net/Download/ico/Icon512.png</string>  
+                    <string>https://tianxiaxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,19 +27,19 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://jh.foxuc.net/Download/ico/Icon57.png</string>  
+                    <string>https://tianxiaxiazai.oss-cn-shenzhen.aliyuncs.com/Download/Icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.hyxianqu.mm2</string>  
+                <string>com.tianxia.qipai.ios</string>  
                 <key>bundle-version</key>  
                 <string>1.6.3</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>天下</string>  
+                <string>天下棋牌</string>  
             </dict>  
         </dict>  
     </array>  
