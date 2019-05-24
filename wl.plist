@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://jh.foxuc.net/Download/ico/Icon512.png</string>  
+                    <string>http://cdn.1078jj.com/Download/Icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://jh.foxuc.net/Download/ico/Icon57.png</string>  
+                    <string>http://cdn.1078jj.com/Download/Icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
