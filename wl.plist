@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>https://tianxiaxiazai.oss-cn-shenzhen.aliyuncs.com/Download/kaixin.ipa</string>  
+                    <string>http://cdn.1078jj.com/Download/wanli.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -39,7 +39,7 @@
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>万利</string>  
+                <string>万利棋牌</string>  
             </dict>  
         </dict>  
     </array>  
