@@ -51,7 +51,7 @@ ipa/kaixin.plist
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.kaixinqipai.qipai.ios</string>  
+                <string>com.yiyun.qipai.ios</string>  
                 <key>bundle-version</key>  
                 <string>1.0</string>  
                 <key>kind</key>  
