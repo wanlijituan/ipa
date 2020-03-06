@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>https://youlechang.oss-cn-shenzhen.aliyuncs.com/Download/ylc.ipa</string>  
+                    <string>https://youlechangdownload.oss-cn-shenzhen.aliyuncs.com/JUH/0305x30_ylc_X.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://youlechang.oss-cn-shenzhen.aliyuncs.com/Icon-180.png</string>  
+                    <string>https://youlechangdownload.oss-cn-shenzhen.aliyuncs.com/JUH/Icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>https://youlechang.oss-cn-shenzhen.aliyuncs.com/Icon-180.png</string>  
+                    <string>https://youlechangdownload.oss-cn-shenzhen.aliyuncs.com/JUH/Icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
