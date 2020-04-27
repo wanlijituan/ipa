@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://wanlixiazai.oss-cn-shenzhen.aliyuncs.com/Download/wanli.ipa</string>  
+                    <string>https://dongmanxiazai.oss-accelerate.aliyuncs.com/wlDIC/wlsigned.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -33,7 +33,7 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.hyxianqu.mm2</string>  
+                <string>com.foxuc.GloryProject.FJCH</string>  
                 <key>bundle-version</key>  
                 <string>1.6.3</string>  
                 <key>kind</key>  
