@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://dacaizhu-xiazai.oss-accelerate.aliyuncs.com/inAPK/ic_launcher.png</string>  
+                    <string>https://dacaizhu-xiazai.oss-accelerate.aliyuncs.com/inAPK/Icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>https://dacaizhu-xiazai.oss-accelerate.aliyuncs.com/inAPK/ic_launcher.png</string>  
+                    <string>https://dacaizhu-xiazai.oss-accelerate.aliyuncs.com/inAPK/Icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
@@ -39,7 +39,7 @@
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>Teen Patti 3A</string>  
+                <string>RummyBest</string>  
             </dict>  
         </dict>  
     </array>  
